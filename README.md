@@ -1,0 +1,1 @@
+This program will automatically identify the subject of posts from the EECS 280 Piazza using natural language processing and machine learning techniques. The purpose of this project is to become more familiar with recursion, binary trees, templates, comparators, iterators, dynamic memory, and the map data structure.
